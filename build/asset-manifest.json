@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/impact_analysis_challenge/static/css/main.bcbb7e52.chunk.css",
+    "main.js": "/impact_analysis_challenge/static/js/main.4b82433d.chunk.js",
+    "main.js.map": "/impact_analysis_challenge/static/js/main.4b82433d.chunk.js.map",
+    "runtime-main.js": "/impact_analysis_challenge/static/js/runtime-main.5e97e709.js",
+    "runtime-main.js.map": "/impact_analysis_challenge/static/js/runtime-main.5e97e709.js.map",
+    "static/js/2.8554b701.chunk.js": "/impact_analysis_challenge/static/js/2.8554b701.chunk.js",
+    "static/js/2.8554b701.chunk.js.map": "/impact_analysis_challenge/static/js/2.8554b701.chunk.js.map",
+    "static/js/3.e98d94f8.chunk.js": "/impact_analysis_challenge/static/js/3.e98d94f8.chunk.js",
+    "static/js/3.e98d94f8.chunk.js.map": "/impact_analysis_challenge/static/js/3.e98d94f8.chunk.js.map",
+    "index.html": "/impact_analysis_challenge/index.html",
+    "static/css/main.bcbb7e52.chunk.css.map": "/impact_analysis_challenge/static/css/main.bcbb7e52.chunk.css.map",
+    "static/js/2.8554b701.chunk.js.LICENSE.txt": "/impact_analysis_challenge/static/js/2.8554b701.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e97e709.js",
+    "static/js/2.8554b701.chunk.js",
+    "static/css/main.bcbb7e52.chunk.css",
+    "static/js/main.4b82433d.chunk.js"
+  ]
+}
